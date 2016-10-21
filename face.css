@@ -26,11 +26,11 @@
 
 #mouth {
 	width: 150px;
-    height: 10px;
-    position: absolute; top: 220px; left: 73px;
-    border-radius: 30%;
-	/*border-color: transparent transparent transparent #999;
-	border-width: 0 0 0 1px;*/
+	height: 10px;
+	position: absolute; top: 220px; left: 73px;
+	border-radius: 30%;
+	/*border-color: transparent transparent transparent #999;*/
+	/*border-width: 0 0 0 1px;*/
 	background-color: #000000;
 }
 
