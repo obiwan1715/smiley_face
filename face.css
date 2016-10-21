@@ -26,8 +26,7 @@
 
 #mouth {
 	width: 150px;
-    height: 7px;
-    border: 1px solid;
+    height: 10px;
     position: absolute; top: 220px; left: 73px;
     border-radius: 30%;
 	/*border-color: transparent transparent transparent #999;
