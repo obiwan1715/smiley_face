@@ -25,12 +25,10 @@
 }
 
 #mouth {
-	width: 150px;
-	height: 10px;
-	position: absolute; top: 220px; left: 73px;
-	border-radius: 30%;
-	/*border-color: transparent transparent transparent #999;*/
-	/*border-width: 0 0 0 1px;*/
-	background-color: #000000;
+ 	position: absolute; top: 200px; left: 61px;
+ 	width: 170px; height: 20px;  
+ 	border: solid 8px #000;
+ 	border-color: #000 transparent transparent transparent;
+ 	border-radius: 50%/32px 32px 0 0;
+ 	transform: rotateX(180deg);
 }
-
